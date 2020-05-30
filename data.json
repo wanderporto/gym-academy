@@ -1,0 +1,35 @@
+{
+  "members": [
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1529516548873-9ce57c8f155e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "name": "wander wang porto",
+      "email": "wanderwang@hotmail.com",
+      "birth": 1590710400000,
+      "gender": "M",
+      "blood": "B1",
+      "weight": "12",
+      "height": "10",
+      "id": 1
+    }
+  ],
+  "instructors": [
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1529516548873-9ce57c8f155e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "name": "rene",
+      "birth": null,
+      "gender": "M",
+      "services": "personal trainer",
+      "created_at": 1590024949439,
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name": "andromeda",
+      "birth": null,
+      "avatar_url": "https://images.unsplash.com/photo-1518605360659-2aa9659ef66d?ixlib=rb-1.2.1&auto=format&fit=crop&w=718&q=80",
+      "gender": "M",
+      "services": "personal trainer",
+      "created_at": 1590025049076
+    }
+  ]
+}
