@@ -11,4 +11,36 @@ Sistema para gestão de Academia
 
 :trophy: Listagem de Instrutores e Mebros 
 
-<img src="https://github.com/wanderporto/gym-academy/blob/master/img/tela-principal.png">
+## Imagens do Sistema
+
+<img src="https://github.com/wanderporto/gym-academy/blob/master/img/instructor.png">
+
+<img src="https://github.com/wanderporto/gym-academy/blob/master/img/instructor.png">
+
+<img src="https://github.com/wanderporto/gym-academy/blob/master/img/instructor.png">
+
+## Pré-requisitos
+
+:warning: [Node](https://nodejs.org/en/download/)
+
+## Como rodar a aplicação :arrow_forward:
+
+No terminal, clone o projeto: 
+
+```
+git clone https://github.com/wanderporto/gym-academy.git
+```
+
+Entre na pasta do projeto
+
+```cd gym-academy ```
+
+Instale as depêndencas:
+
+```npm install```
+
+Execute a aplicação:
+
+``` npm start ```
+
+Pronto, agora é possível acessar a aplicação através da url: http://localhost:3000
