@@ -15,9 +15,9 @@ Sistema para gestão de Academia
 
 <img src="https://github.com/wanderporto/gym-academy/blob/master/img/instructor.png">
 
-<img src="https://github.com/wanderporto/gym-academy/blob/master/img/instructor.png">
+<img src="https://github.com/wanderporto/gym-academy/blob/master/img/instructor-edit.png">
 
-<img src="https://github.com/wanderporto/gym-academy/blob/master/img/instructor.png">
+<img src="https://github.com/wanderporto/gym-academy/blob/master/img/member.png">
 
 ## Pré-requisitos
 
